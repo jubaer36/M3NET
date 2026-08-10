@@ -1,0 +1,7 @@
+__pycache__/*
+IEMOCAP_features/*
+MELD_features/*
+best_model.pth.tar
+checkpoints/*
+record_2026_6_2.pk
+record_2026_8_10.pk
